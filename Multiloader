@@ -26,7 +26,13 @@ local GameList = {
 
     -- 블볼게이
     [117917823443279] = {
-        Default = "https://raw.githubusercontent.com/bgsn523/Bgns1-Hub/refs/heads/main/scripts/UntitledRPG/2.lua",
+        Default = "print("working on")",
+        Mobile = nil
+    },
+
+    -- 아스널 게이
+    [286090429] = {
+        Default = "https://raw.githubusercontent.com/jmk-arch/Loader/refs/heads/main/Arsenal",
         Mobile = nil
     },
 }
