@@ -26,7 +26,7 @@ local GameList = {
 
     -- 블볼게이
     [117917823443279] = {
-        Default = "print("working on")",
+        Default = "",
         Mobile = nil
     },
 
